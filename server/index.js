@@ -36,7 +36,7 @@ app.get("/api/residences", (req, res) => {
 // 2 BEDROOMS FROM $1.375M AND 3 BEDROOMS FROM $1.725M.
 
   res.send({
-      headers: {
+      header: {
         image: "https://www.maracielo.com/app/uploads/2019/12/MCDS_Web_Residences_hero-compressor.jpg",
         text: "MAR A CIELO",
       },
