@@ -1,0 +1,48 @@
+.w-full {
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+.title {
+  font-size: 30px;
+  line-height: 36px;
+  color: #e4dbcc;
+}
+.subTitle {
+  font-size: 20px;
+  line-height: 24px;
+  color: #936d33
+}
+.details {
+  color: white;
+}
+p {
+  padding: 0px;
+}
+
+.absolute {
+  position: absolute;
+}
+.flex {
+  display: flex;
+}
+.items-center {
+  align-items: center;
+}
+
+.logo {
+  width: 85px;
+}
+
+.bg-brand {
+  background: #202117;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.brand_content {
+  max-width: 1100px;
+  margin: auto;
+}

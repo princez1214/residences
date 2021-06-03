@@ -1,4 +1,4 @@
-### git clone https://github.com/princez1214/Koala_mini_project.git
+### git clone https://github.com/princez1214/resident
 
 
 # Back End simple REST API
