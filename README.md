@@ -1,4 +1,4 @@
-### git clone https://github.com/princez1214/resident
+### git clone https://github.com/princez1214/residences.git
 
 
 # Back End simple REST API
@@ -13,7 +13,7 @@ npx nodemon index.js
 ## Front End
 
 ```
-cd client
+cd FrontEnd
 npm install
 npm run start
 ```
